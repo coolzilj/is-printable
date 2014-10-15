@@ -1,5 +1,5 @@
 {
-  "name": "isPrintable",
+  "name": "is-printable",
   "version": "0.0.0",
   "description": "check image resolution to ensure printing quality",
   "main": "index.js",

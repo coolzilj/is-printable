@@ -1,5 +1,5 @@
 /**
- * isPrintable
+ * is-printable
  * @param  {String} imagePath
  * @param  {Array} physicalDimensions
  * @param  {Function} callback
