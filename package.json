@@ -1,0 +1,14 @@
+{
+  "name": "isPrintable",
+  "version": "0.0.0",
+  "description": "check image resolution to ensure printing quality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liu Jin",
+  "license": "MIT",
+  "dependencies": {
+    "image-size": "^0.3.3"
+  }
+}
